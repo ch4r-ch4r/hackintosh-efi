@@ -9,6 +9,9 @@ This EFI is for  ***personal***  use. Please do some research if you have any in
 
 I am not responsible for any loss, including but not limited to Kernel Panic, device fail to boot, storage damage, data loss, rig spontaneously combusting, AI takeover, the Big Freeze and whatever else I can think of in the future.
 
+## Screenshots
+[![Screen-Shot-2022-04-13-at-9-44-40.png](https://i.postimg.cc/59Pf7Sc3/Screen-Shot-2022-04-13-at-9-44-40.png)](https://postimg.cc/dDyMDdVk)
+
 ## Hardware
 
 |**Type**|**Specification**|
