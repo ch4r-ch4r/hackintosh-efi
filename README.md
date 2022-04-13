@@ -21,7 +21,6 @@ I am not responsible for any loss, including but not limited to Kernel Panic, de
 |GPU|AMD Radeon RX 6800 XT Taichi X 16G OC|
 |RAM|Kingston HyperX RAM Fury 64GB|
 |Storage|960GB Kingston SSD A400|
-|CPU|AMD Ryzen 5950X|
 
 
 ## Kexts
